@@ -2,7 +2,8 @@
 <head>
 </head>
 <body>
-<a href="kw_in_link_text">Keyword</a>
-<a href="keyword_in_href">KW in href</a>
+<a href="http://kw_in_link_text">Keyword</a>
+<a href="http://keyword_in_href">KW in href</a>
+<a href="http://no_kw">No KW</a>
 </body>
 </html>
